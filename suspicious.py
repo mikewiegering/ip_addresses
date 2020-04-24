@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'd5645a210a5065b0df6a2851db470f2a771ea67ce0975d39db1b3d31'
+api_key = '' # insert your api key here for ipdata.co
 
 filename = 'addresses.txt'
 
